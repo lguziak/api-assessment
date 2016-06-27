@@ -1,0 +1,5 @@
+C:\DEVELOPER\VSprojects\Assessment\Assessment.EntitiesModel\bin\Debug\Assessment.EntitiesModel.dll
+C:\DEVELOPER\VSprojects\Assessment\Assessment.EntitiesModel\bin\Debug\Assessment.EntitiesModel.pdb
+C:\DEVELOPER\VSprojects\Assessment\Assessment.EntitiesModel\obj\Debug\Assessment.EntitiesModel.csprojResolveAssemblyReference.cache
+C:\DEVELOPER\VSprojects\Assessment\Assessment.EntitiesModel\obj\Debug\Assessment.EntitiesModel.dll
+C:\DEVELOPER\VSprojects\Assessment\Assessment.EntitiesModel\obj\Debug\Assessment.EntitiesModel.pdb

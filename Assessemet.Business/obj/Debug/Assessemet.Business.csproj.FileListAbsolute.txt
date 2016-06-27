@@ -1,0 +1,5 @@
+C:\DEVELOPER\VSprojects\Assessment\Assessemet.Business\bin\Debug\Assessemet.Business.dll
+C:\DEVELOPER\VSprojects\Assessment\Assessemet.Business\bin\Debug\Assessemet.Business.pdb
+C:\DEVELOPER\VSprojects\Assessment\Assessemet.Business\obj\Debug\Assessemet.Business.csprojResolveAssemblyReference.cache
+C:\DEVELOPER\VSprojects\Assessment\Assessemet.Business\obj\Debug\Assessemet.Business.dll
+C:\DEVELOPER\VSprojects\Assessment\Assessemet.Business\obj\Debug\Assessemet.Business.pdb
